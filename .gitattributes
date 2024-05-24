@@ -1,0 +1,4 @@
+data/hand-strengths/standard/preflop/output.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths/standard/flop/input.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths/standard/flop/output.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths/standard/preflop/input.txt filter=lfs diff=lfs merge=lfs -text
