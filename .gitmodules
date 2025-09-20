@@ -1,0 +1,3 @@
+[submodule "pokercmd"]
+	path = pokercmd
+	url = https://github.com/uoftcprg/pokercmd.git

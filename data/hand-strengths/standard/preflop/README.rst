@@ -2,4 +2,4 @@ Command used:
 
 .. code-block:: bash
 
-   cat input.txt | ./poker-hand-strengths > output.txt
+   ../../../../pokercmd/poker-hand-strengths < input.txt > output.txt
