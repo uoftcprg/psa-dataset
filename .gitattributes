@@ -1,3 +1,11 @@
+data/hand-strengths-squared/standard/flop/input.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths-squared/standard/flop/output.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths-squared/standard/preflop/input.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths-squared/standard/preflop/output.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths-squared/standard/river/input.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths-squared/standard/river/output.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths-squared/standard/turn/input.txt filter=lfs diff=lfs merge=lfs -text
+data/hand-strengths-squared/standard/turn/output.txt filter=lfs diff=lfs merge=lfs -text
 data/hand-strengths/standard/flop/input.txt filter=lfs diff=lfs merge=lfs -text
 data/hand-strengths/standard/flop/output.txt filter=lfs diff=lfs merge=lfs -text
 data/hand-strengths/standard/preflop/input.txt filter=lfs diff=lfs merge=lfs -text
@@ -6,5 +14,3 @@ data/hand-strengths/standard/river/input.txt filter=lfs diff=lfs merge=lfs -text
 data/hand-strengths/standard/river/output.txt filter=lfs diff=lfs merge=lfs -text
 data/hand-strengths/standard/turn/input.txt filter=lfs diff=lfs merge=lfs -text
 data/hand-strengths/standard/turn/output.txt filter=lfs diff=lfs merge=lfs -text
-data/hand-strengths-squared/standard/river/input.txt filter=lfs diff=lfs merge=lfs -text
-data/hand-strengths-squared/standard/river/output.txt filter=lfs diff=lfs merge=lfs -text
