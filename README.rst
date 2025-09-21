@@ -8,4 +8,5 @@ Please enumerate through all suit permutations to find a corresponding entry.
 
 Contents:
 
-- Hand strength calculations for every possible standard (Texas hold'em, etc.) hand in preflop and flop situations.
+- Hand strength calculations for standard (Texas hold'em, etc.) hands.
+- Hand strength squared calculations for standard (Texas hold'em, etc.) hands.
